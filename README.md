@@ -1,0 +1,1 @@
+# Electrical-Appliance-Power-Consumtion-Analysis-and-Fridge-Anamoly-detection
